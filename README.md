@@ -28,7 +28,7 @@ Synchronic analyses can be found in resources by Tikhonov and others, but this d
 
 ## `lemmas_to_roots.tsv`
 
-`lemmas_to_roots.tsv` is data from the Index (Указтель). It contains two columns. 
+`lemmas_to_roots.tsv` is data from the Index (Указатель). It contains two columns. 
 
 ```
 Word (optional notes)    Root
